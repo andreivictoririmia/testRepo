@@ -1,3 +1,4 @@
 this is a test
 
 no longer new line. just updated it.
+now adding a new line
